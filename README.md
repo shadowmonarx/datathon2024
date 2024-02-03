@@ -1,2 +1,2 @@
-# datathon2024
+# Datathon2024
 hackathon project
